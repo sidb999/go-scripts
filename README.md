@@ -1,6 +1,12 @@
 # Go Scripts
 
-## Simple golang scripts for daily tasks
+Simple golang scripts for daily tasks
+
+## Requirements
+
+- `yt-dlp`
+
+## Programs
 
 - `ytcut` - cuts youtube video
 - `fcompress` - compress video with hevc
